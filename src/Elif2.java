@@ -4,4 +4,6 @@ public class Elif2 {
     //
     //
     // Psikoloji
+
+    // She is brilliant
 }
